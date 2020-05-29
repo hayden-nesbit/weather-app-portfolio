@@ -1,0 +1,15 @@
+#img {
+   
+    width: 125px;
+  }
+
+  #weather {
+      
+      min-height: 90vh;
+      
+  }
+  
+
+  #card {
+      background-color: rgba(0, 0, 0, 0.5);
+  }
